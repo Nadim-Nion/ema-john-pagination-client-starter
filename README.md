@@ -40,7 +40,7 @@ Enhanced E-commerce shopping experience with added pagination and persistent sho
 
 * Firebase: 
 
-* Netlify:
+* Netlify: https://ema-john-client-starter-nion.netlify.app/
 
 * Surge:
 ## Installation
