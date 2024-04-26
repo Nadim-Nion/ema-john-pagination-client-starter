@@ -7,8 +7,8 @@ import { Link, useLoaderData } from 'react-router-dom';
 
 const Shop = () => {
     const [products, setProducts] = useState([]);
-    // const [cart, setCart] = useState([]);
-    const cart = useLoaderData();
+    const loadedCart = useLoaderData();
+    const [cart, setCart] = useState(loadedCart);
     const [currentPage, setCurrentPage] = useState(0);
     const [itemsPerPage, setItemsPerPage] = useState(10);
     const [count, setCount] = useState(0);
