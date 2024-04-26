@@ -32,7 +32,7 @@ Enhanced E-commerce shopping experience with added pagination and persistent sho
    ```bash
    npm start
    ```
-4. Open your browser and navigate to `http://localhost:5000` to view the application.
+4. Open your browser and navigate to `https://ema-john-pagination-server-starter-snowy.vercel.app` to view the application.
 
 
 
